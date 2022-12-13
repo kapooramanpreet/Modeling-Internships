@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repo for research, please cite it as below."
+authors:
+  - family-names: Wolf
+    given-names: Megan
+  - family-names: Kapoor
+    given-names: Amanpreet
+    orcid: https://orcid.org/0000-0003-1340-8315
+  - family-names: Hobson
+    given-names: Charlie
+  - family-names: Gardner-McCune
+    given-names: Christina
+title: "Modeling Determinants of Undergraduate Computing Students’ Participation in Internships"
+version: 1.0.0
+doi: 
+date-released: 2022-12-12
+url: "https://github.com/kapooramanpreet/Modeling-Internships"
